@@ -1,10 +1,10 @@
-# VS Item Template for UiPath custom activity
+# VS Item Template for Custom Activity
 
-Template that provides a quick way to create a C# class (custom activity) on the standards required by UiPath.
+Template that provides a quick way to create a C# class (custom activity) on the standards required by the custom activity.
 
 --
 
-This VS template makes creating a custom activity for UiPath using Visual Studio a piece of cake! Even if you have never created one and do not know about the specific references that needs to be added (or class modifier, attributes, etc.), you will be able to come up with a custom activity ready to be packaged and deployed to your UiPath project.  
+This VS template makes creating a custom activity using Visual Studio a piece of cake! Even if you have never created one and do not know about the specific references that needs to be added (or class modifier, attributes, etc.), you will be able to come up with a custom activity ready to be packaged and deployed to your UiPath project.  
 
 --
 
