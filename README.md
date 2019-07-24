@@ -19,8 +19,8 @@ Steps to install the template:
 6. The option Custom Activity should be available.
 7. Select a custom activity name as desired and hit Add.
 8. Update the code as needed.
-9. Build your solution (Class Library) so you the .dll can be generated.
-10. Use Nuget Explorer to pack your dll and create a nupkg file to be installed in UiPath.
+9. Build your solution (Class Library) so your the .dll can be generated.
+10. Use [NuGet Package Explorer](https://github.com/NuGetPackageExplorer/NuGetPackageExplorer) to pack your dll and create a nupkg file to be installed in UiPath.
 
 Refer to this [UiPath documentation](https://activities.uipath.com/docs/creating-a-custom-activity) in case you need more detailed information about steps 9 and 10.
 
